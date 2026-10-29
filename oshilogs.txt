@@ -12,88 +12,86 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Alida =====
-[1]Alida       |09:14:15 | 28-10-2026| login OK @alidaveniara | score=0 rank=?
-[1]Alida       |09:14:15 | 28-10-2026| serverTime=2026-10-28T09:14:15.000Z local=2026-10-28T09:14:15.422Z
+[1]Alida       |09:14:19 | 29-10-2026| login OK @alidaveniara | score=0 rank=?
+[1]Alida       |09:14:19 | 29-10-2026| serverTime=2026-10-29T09:14:19.000Z local=2026-10-29T09:14:19.855Z
 --> [1]Alida menjalankan: Claim Daily
-[1]Alida       |09:14:15 | 28-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
---> [1]Alida menjalankan: Auto All Tasks (15 pending)
-[1]Alida       |09:14:16 | 28-10-2026| [1/15] 87ae8b6e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371178468188467
-[1]Alida       |09:14:16 | 28-10-2026| delay 10s...
-[1]Alida       |09:14:26 | 28-10-2026| [2/15] 569b202e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371167437945226
-[1]Alida       |09:14:26 | 28-10-2026| delay 10s...
-[1]Alida       |09:14:36 | 28-10-2026| [3/15] 0c0c4157 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371110357943878
-[1]Alida       |09:14:36 | 28-10-2026| delay 10s...
-[1]Alida       |09:14:47 | 28-10-2026| [4/15] affba66c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371187105497505
-[1]Alida       |09:14:47 | 28-10-2026| delay 10s...
-[1]Alida       |09:14:57 | 28-10-2026| [5/15] 3a506cad (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371180006969677
-[1]Alida       |09:14:57 | 28-10-2026| delay 10s...
-[1]Alida       |09:15:07 | 28-10-2026| [6/15] 1db0caec (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371391052114615
-[1]Alida       |09:15:07 | 28-10-2026| delay 10s...
-[1]Alida       |09:15:18 | 28-10-2026| [7/15] 1c315c65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371539175127393
-[1]Alida       |09:15:18 | 28-10-2026| delay 10s...
-[1]Alida       |09:15:28 | 28-10-2026| [8/15] dac9c018 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:15:28 | 28-10-2026| delay 10s...
-[1]Alida       |09:15:38 | 28-10-2026| [9/15] 9edbb28a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371282401525038
-[1]Alida       |09:15:38 | 28-10-2026| delay 10s...
-[1]Alida       |09:15:49 | 28-10-2026| [10/15] ed948baf (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371338185908222
-[1]Alida       |09:15:49 | 28-10-2026| delay 10s...
-[1]Alida       |09:15:59 | 28-10-2026| [11/15] d23e8d85 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371649950724312
-[1]Alida       |09:15:59 | 28-10-2026| delay 10s...
-[1]Alida       |09:16:09 | 28-10-2026| [12/15] 3f7b08ea (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371567484574769
-[1]Alida       |09:16:09 | 28-10-2026| delay 10s...
-[1]Alida       |09:16:20 | 28-10-2026| [13/15] 84429acd (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371795256575461
-[1]Alida       |09:16:20 | 28-10-2026| delay 10s...
-[1]Alida       |09:16:30 | 28-10-2026| [14/15] 6c6d6f6f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371641981150878
-[1]Alida       |09:16:30 | 28-10-2026| delay 10s...
-[1]Alida       |09:16:40 | 28-10-2026| [15/15] f12f3018 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371861464563140
-[1]Alida       |09:16:40 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Alida       |09:16:41 | 28-10-2026| [1/1] 87ae8b6e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115371837595590109
+[1]Alida       |09:14:20 | 29-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Alida menjalankan: Auto All Tasks (14 pending)
+[1]Alida       |09:14:21 | 29-10-2026| [1/14] 4b02b48f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733709147020268
+[1]Alida       |09:14:21 | 29-10-2026| delay 10s...
+[1]Alida       |09:14:31 | 29-10-2026| [2/14] 5c713c28 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733582483981636
+[1]Alida       |09:14:31 | 29-10-2026| delay 10s...
+[1]Alida       |09:14:41 | 29-10-2026| [3/14] a4b0b050 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733525304138381
+[1]Alida       |09:14:41 | 29-10-2026| delay 10s...
+[1]Alida       |09:14:52 | 29-10-2026| [4/14] 6fb148bd (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733577170080063
+[1]Alida       |09:14:52 | 29-10-2026| delay 10s...
+[1]Alida       |09:15:02 | 29-10-2026| [5/14] c0149815 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733733696713946
+[1]Alida       |09:15:02 | 29-10-2026| delay 10s...
+[1]Alida       |09:15:12 | 29-10-2026| [6/14] 87ae8b6e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733567676012582
+[1]Alida       |09:15:12 | 29-10-2026| delay 10s...
+[1]Alida       |09:15:23 | 29-10-2026| [7/14] affba66c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733598807586994
+[1]Alida       |09:15:23 | 29-10-2026| delay 10s...
+[1]Alida       |09:15:33 | 29-10-2026| [8/14] 3a506cad (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733776805663576
+[1]Alida       |09:15:33 | 29-10-2026| delay 10s...
+[1]Alida       |09:15:44 | 29-10-2026| [9/14] 3a2ebc56 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115734038709519092
+[1]Alida       |09:15:44 | 29-10-2026| delay 10s...
+[1]Alida       |09:15:54 | 29-10-2026| [10/14] 21a80281 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733830416952702
+[1]Alida       |09:15:54 | 29-10-2026| delay 10s...
+[1]Alida       |09:16:04 | 29-10-2026| [11/14] 623aac60 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733785805680603
+[1]Alida       |09:16:04 | 29-10-2026| delay 10s...
+[1]Alida       |09:16:15 | 29-10-2026| [12/14] 8545d68c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115734160650656741
+[1]Alida       |09:16:15 | 29-10-2026| delay 10s...
+[1]Alida       |09:16:26 | 29-10-2026| [13/14] 84429acd (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115733956587435192
+[1]Alida       |09:16:26 | 29-10-2026| delay 10s...
+[1]Alida       |09:16:36 | 29-10-2026| [14/14] 125a0329 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:16:36 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Alida       |09:16:37 | 29-10-2026| [1/1] 4b02b48f (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/alidaveniara/status/2115734264048233762
 --> [1]Alida menjalankan: Watch Anime
-[1]Alida       |09:16:41 | 28-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:16:37 | 29-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Alida menjalankan: Read Article
-[1]Alida       |09:16:43 | 28-10-2026| news: null/30 artikel selesai dibaca
-[1]Alida       |09:16:43 | 28-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Alida       |09:16:49 | 28-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:16:56 | 28-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:03 | 28-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:11 | 28-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:18 | 28-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:26 | 28-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:33 | 28-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:40 | 28-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:47 | 28-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:17:54 | 28-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:02 | 28-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:09 | 28-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:17 | 28-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:24 | 28-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:32 | 28-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:39 | 28-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:47 | 28-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:18:55 | 28-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:03 | 28-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:10 | 28-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:17 | 28-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:25 | 28-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:32 | 28-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:39 | 28-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:47 | 28-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:19:55 | 28-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:20:02 | 28-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:20:10 | 28-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:20:17 | 28-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Alida       |09:20:24 | 28-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:16:39 | 29-10-2026| news: null/30 artikel selesai dibaca
+[1]Alida       |09:16:40 | 29-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Alida       |09:16:45 | 29-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:16:53 | 29-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:01 | 29-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:08 | 29-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:16 | 29-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:23 | 29-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:31 | 29-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:39 | 29-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:47 | 29-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:17:54 | 29-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:02 | 29-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:09 | 29-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:17 | 29-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:24 | 29-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:32 | 29-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:40 | 29-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:47 | 29-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:18:55 | 29-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:02 | 29-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:10 | 29-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:17 | 29-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:24 | 29-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:32 | 29-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:39 | 29-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:47 | 29-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:19:54 | 29-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:20:01 | 29-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:20:08 | 29-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:20:16 | 29-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Alida       |09:20:24 | 29-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
 --> [1]Alida menjalankan: Quiz Anime
 --> [1]Alida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Alida       |09:20:29 | 28-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Alida       |09:20:29 | 28-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:20:28 | 29-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:20:28 | 29-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Alida menjalankan: Claim Missions
-[1]Alida       |09:20:30 | 28-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:20:29 | 29-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Alida menjalankan: Check Eligibility
 
 --- eligibility [1]Alida ---
   @? | score=0 rank=?
-  tasks    [--------------------] 0/15
+  tasks    [--------------------] 0/14
   missions: ERROR missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
   quiz     [?]
   watch: ERROR watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
@@ -102,39 +100,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Alida menjalankan: Read Manga
-[1]Alida       |09:20:33 | 28-10-2026| manga: 13/13 chapter belum completed
-[1]Alida       |09:20:33 | 28-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Alida       |09:20:33 | 28-10-2026| manga ch1 (1): start GAGAL http=401
-[1]Alida       |09:20:36 | 28-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Alida       |09:20:36 | 28-10-2026| manga ch2 (450001): start GAGAL http=401
-[1]Alida       |09:20:39 | 28-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Alida       |09:20:39 | 28-10-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Alida       |09:20:42 | 28-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Alida       |09:20:43 | 28-10-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Alida       |09:20:46 | 28-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Alida       |09:20:46 | 28-10-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Alida       |09:20:49 | 28-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Alida       |09:20:49 | 28-10-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Alida       |09:20:52 | 28-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Alida       |09:20:52 | 28-10-2026| manga ch1 (180003): start GAGAL http=401
-[1]Alida       |09:20:55 | 28-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Alida       |09:20:56 | 28-10-2026| manga ch2 (990005): start GAGAL http=401
-[1]Alida       |09:20:59 | 28-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Alida       |09:21:00 | 28-10-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Alida       |09:21:03 | 28-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Alida       |09:21:03 | 28-10-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Alida       |09:21:06 | 28-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Alida       |09:21:06 | 28-10-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Alida       |09:21:09 | 28-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Alida       |09:21:10 | 28-10-2026| manga ch2 (2520001): start GAGAL http=401
-[1]Alida       |09:21:13 | 28-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Alida       |09:21:13 | 28-10-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Alida       |09:20:32 | 29-10-2026| manga: 13/13 chapter belum completed
+[1]Alida       |09:20:32 | 29-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Alida       |09:20:32 | 29-10-2026| manga ch1 (1): start GAGAL http=401
+[1]Alida       |09:20:35 | 29-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Alida       |09:20:36 | 29-10-2026| manga ch2 (450001): start GAGAL http=401
+[1]Alida       |09:20:39 | 29-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Alida       |09:20:39 | 29-10-2026| manga ch3 (2160001): start GAGAL http=401
+[1]Alida       |09:20:42 | 29-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Alida       |09:20:43 | 29-10-2026| manga ch4 (2400001): start GAGAL http=401
+[1]Alida       |09:20:46 | 29-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Alida       |09:20:46 | 29-10-2026| manga ch5 (2490001): start GAGAL http=401
+[1]Alida       |09:20:49 | 29-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Alida       |09:20:50 | 29-10-2026| manga ch6 (2610001): start GAGAL http=401
+[1]Alida       |09:20:53 | 29-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Alida       |09:20:53 | 29-10-2026| manga ch1 (180003): start GAGAL http=401
+[1]Alida       |09:20:56 | 29-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Alida       |09:20:56 | 29-10-2026| manga ch2 (990005): start GAGAL http=401
+[1]Alida       |09:20:59 | 29-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Alida       |09:21:00 | 29-10-2026| manga ch3 (1980001): start GAGAL http=401
+[1]Alida       |09:21:03 | 29-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Alida       |09:21:03 | 29-10-2026| manga ch1 (2100001): start GAGAL http=401
+[1]Alida       |09:21:06 | 29-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Alida       |09:21:07 | 29-10-2026| manga ch1 (2070001): start GAGAL http=401
+[1]Alida       |09:21:10 | 29-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Alida       |09:21:10 | 29-10-2026| manga ch2 (2520001): start GAGAL http=401
+[1]Alida       |09:21:13 | 29-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Alida       |09:21:13 | 29-10-2026| manga ch3 (2550001): start GAGAL http=401
 --> [1]Alida menjalankan: Get Gift
-[1]Alida       |09:21:16 | 28-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:21:17 | 29-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Alida menjalankan: Setup Profile
-[1]Alida       |09:21:16 | 28-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:21:17 | 29-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Alida menjalankan: Bind Wallet
-[1]Alida       |09:21:17 | 28-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Alida       |09:21:18 | 29-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 
 == RINGKASAN ==
-- Alida: daily=- | tasks OK 0/16 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
+- Alida: daily=- | tasks OK 0/15 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
